@@ -56,7 +56,7 @@
 
               <p class="text-muted">
                 Universidad Santiago de Cali <br>
-                <a class="btn btn-social-icon btn-github" href="https://github.com/Alejoflorez27/PaginaMusicaUSC_FINAL"><i class="fa fa-github"></i></a>
+                <a class="btn btn-social-icon btn-github" href="https://github.com/Alejoflorez27/PaginaWebMusicaUsc"><i class="fa fa-github"></i></a>
               </p>
 
               <hr>
