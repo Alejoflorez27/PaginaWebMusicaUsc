@@ -36,7 +36,7 @@
       <div class="container">
         <div class="navbar-header">
 
-          <a href="inicio" class="navbar-brand"><b>Musica</b>Sci-High</a>
+          <a href="inicio" class="navbar-brand"><b>Medidor</b>Corriente</a>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
             <i class="fa fa-bars"></i>
           </button>
@@ -45,14 +45,14 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="categorias">Generos <span class="sr-only">(current)</span></a></li>
-            <li><a href="artistas">artistas</a></li>
+            <li class="active"><a href="categorias">Corriente <span class="sr-only">(current)</span></a></li>
+            <li><a href="artistas">voltage</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Acciones <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="inicio">Musica</a></li>
-                <li><a href="albunes">Albunes</a></li>
-                <li><a href="artistas">Artistas</a></li>
+                <li><a href="inicio">Albunes</a></li>
+                <li><a href="inicio">Artistas</a></li>
                 <li class="divider"></li>
                 <li><a href="categorias">Generos</a></li>
                 <li class="divider"></li>

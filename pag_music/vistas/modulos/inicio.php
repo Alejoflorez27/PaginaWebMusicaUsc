@@ -2,9 +2,9 @@
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
-      <h1>
-        Proyecto WEB
-      </h1>
+      <h5>
+      SISTEMA DE TELEMETRÍA PARA ANÁLISIS DE PARÁMETROS ENERGÉTICOS DE BAJA POTENCIA A TRAVÉS DE INTERNET DE LAS COSAS
+      </h5>
       <ol class="breadcrumb">
         <li><a href="inicio"><i class="fa fa-dashboard"></i> Home</a></li>
         <li class="active">User profile</li>
@@ -92,14 +92,15 @@
           <div class="nav-tabs-custom">
             <ul class="nav nav-tabs">
               <li class="active"><a href="#activity" data-toggle="tab">Inicio</a></li>
-              <li><a href="#timeline" data-toggle="tab">Canciones</a></li>
-              <li><a href="#settings" data-toggle="tab">Albunes</a></li>
-              <li><a href="#Artistas" data-toggle="tab">Artistas</a></li>
+              <li><a href="#activity" data-toggle="tab">Corriente</a></li>
+              <li><a href="#activity" data-toggle="tab">Voltage</a></li>
+              <li><a href="#activity" data-toggle="tab">Amperios</a></li>
             </ul>
             <div class="tab-content">
               <div class="active tab-pane" id="activity">
-                  <h1>Playlist</h1>
-                  <?php include "reproductor.php" ?>
+                  <h1>Dashboard</h1>
+                  <?php include "graficaCorriente.php"
+                  //include "reproductor.php" ?>
               </div>
               <!-- /.tab-pane -->
               <div class="tab-pane" id="timeline">
